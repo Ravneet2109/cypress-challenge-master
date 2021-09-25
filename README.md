@@ -37,3 +37,9 @@ Run `node server.js` in the main folder in your command line to start the server
 
 ### Running The Backend Tests With Mocha
 Run `npm run test` in your command line from the main folder to run the unit tests.
+
+## For TestCases Spec file location
+```
+cypress-challenge-master\median.spec.js
+
+
