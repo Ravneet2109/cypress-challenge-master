@@ -42,4 +42,13 @@ Run `npm run test` in your command line from the main folder to run the unit tes
 ```
 cypress-challenge-master\median.spec.js
 
+Questions:
+Do you have production experience with Cypress prior to the submission of this code challenge?
+I had the basic knowledge of Cypress prior to the submission of this code challenge.
+
+Do you have production experience with Playwright prior to the submission of this code challenge?
+I had the basic knowledge of Playwright prior to the submission of this code challenge.
+
+Full name: Ravneet Kaur
+
 
